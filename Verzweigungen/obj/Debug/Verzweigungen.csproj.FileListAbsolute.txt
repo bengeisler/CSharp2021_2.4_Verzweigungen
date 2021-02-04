@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\Verzweigungen\Verzweigungen\bin\Debug\Verzweigungen.exe.config
+C:\Users\b\source\repos\Verzweigungen\Verzweigungen\bin\Debug\Verzweigungen.exe
+C:\Users\b\source\repos\Verzweigungen\Verzweigungen\bin\Debug\Verzweigungen.pdb
+C:\Users\b\source\repos\Verzweigungen\Verzweigungen\obj\Debug\Verzweigungen.Form1.resources
+C:\Users\b\source\repos\Verzweigungen\Verzweigungen\obj\Debug\Verzweigungen.Properties.Resources.resources
+C:\Users\b\source\repos\Verzweigungen\Verzweigungen\obj\Debug\Verzweigungen.csproj.GenerateResource.cache
+C:\Users\b\source\repos\Verzweigungen\Verzweigungen\obj\Debug\Verzweigungen.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\Verzweigungen\Verzweigungen\obj\Debug\Verzweigungen.exe
+C:\Users\b\source\repos\Verzweigungen\Verzweigungen\obj\Debug\Verzweigungen.pdb
+C:\Users\b\source\repos\Verzweigungen\Verzweigungen\obj\Debug\Verzweigungen.csprojAssemblyReference.cache
